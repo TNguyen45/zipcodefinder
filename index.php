@@ -21,7 +21,7 @@
             <form>
                 <div class="form-group">
                     <label for="address">Address</label>
-                    <input type="text" class="form-control" id="address" placeholder="Enter partial address" aria-describedby="emailHelp">
+                    <input type="text" class="form-control" id="address" placeholder="Enter street address" aria-describedby="emailHelp">
                 </div>
                 <button class="btn btn-primary" id="find-postcode">Submit</button>
             </form>
